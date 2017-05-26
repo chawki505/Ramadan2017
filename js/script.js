@@ -1,7 +1,7 @@
 $(function() {
 $('img').hide();
 $('#messageF').hide();
-var voeux = ["Le mois de ramadan est :", "Le mois des bien fait... Le mois des adoration... Le mois des invocation...", "le mois du partage... Le mois du pardon... Le mois du repentir...", "Un mois beni qui rapporte beacoup pour ceux qui font des effort"];
+var voeux = ["Le mois de ramadan est :", "Le mois des bien faits... Le mois des adorations... Le mois des invocations...", "le mois du partage... Le mois du pardon... Le mois du repentir...", "Un mois beni qui rapporte beacoup pour ceux qui font des efforts"];
 var $list = $('ul');
 
 
